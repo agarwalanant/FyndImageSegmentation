@@ -1,5 +1,13 @@
 # FyndImageSegmentation
 
+## Progress
+1.Implemented R-CNN model but, it has the persisting problem of rough edges.
+
+
+## TODO
+1. GAN based implementation of the image segmentation model.
+
+
 Started with pixel loss as it is the best performing techniques that have been implented so far.
 focused and anlyzed why the pixel based model like MASK-RCNN fail to segment the minute details like hair and jwelries.
 
