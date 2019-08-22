@@ -9,6 +9,7 @@
 
 2. Generate a dataset with separate colour channels
 
+3. As image slicer module is working-> develop a image slicer and joiner module to try 2nd approach.
 
 ## Approach
 Started with pixel loss as it is the best performing techniques that have been implented so far.
