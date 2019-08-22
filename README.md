@@ -7,7 +7,10 @@
 ## TODO
 1. GAN based implementation of the image segmentation model.
 
+2. Generate a dataset with separate colour channels
 
+
+## Approach
 Started with pixel loss as it is the best performing techniques that have been implented so far.
 focused and anlyzed why the pixel based model like MASK-RCNN fail to segment the minute details like hair and jwelries.
 
