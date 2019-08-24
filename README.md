@@ -24,3 +24,8 @@ So, I used the techniques used my Carien that I divided the image into several p
 A mojor flaw in the segmentation may be because of the multiple colout channels in the image.
 
 > Split the image into different channels and apply image segmentarion on that -> combine the image (min of each image)
+
+
+## Datasets
+
+The datasets used can be found at https://drive.google.com/drive/folders/1m0McHaXVYqJcui-Qxcv5f53gZj15Hrr0?usp=sharing
