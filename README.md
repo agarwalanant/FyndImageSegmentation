@@ -2,6 +2,7 @@
 
 ## Progress
 1.Implemented R-CNN model but, it has the persisting problem of rough edges.
+
 2. Training model unet on DGX on 3 databases, Self Generated, Penn fudan, alphamatting. Findeges crossed lets wait for the results.
 
 
