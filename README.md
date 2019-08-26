@@ -8,7 +8,7 @@
 
 3. Data Creation folder contains the scripts that were used to collect and prepare my data.
 
-4.PytorchModel folder has the Pytoch implemetation of the Fast-RCNN model.
+4. PytorchModel folder has the Pytoch implemetation of the Fast-RCNN model.
 
 5. Results.docx file contains the results of the model that I implemented.
 
