@@ -31,3 +31,4 @@ A mojor flaw in the segmentation may be because of the multiple colout channels 
 ## Datasets
 
 The datasets used can be found at https://drive.google.com/drive/folders/1m0McHaXVYqJcui-Qxcv5f53gZj15Hrr0?usp=sharing
+Disclamer: Only public datasets were used and data was fetched from freely available public resourses.
