@@ -1,4 +1,7 @@
 # FyndImageSegmentation
+## Dataset discrepancy
+Models were tained on different machines, Google Colab, DGX1, 1060 and tesla. The hardware belongs to my Prof. Dr Prashant Sigh Rana. I trained my models on the datasets created by me (Code included) and Publically datasets, I forgot to test the trained models on the data provided by Fynd, when Rishab pointed out that my saved models were deleted from my prof harware. Training the models from scratch was also not possible thus could not provide results on fynd data.
+However I have detailed approach and my philosophy in the report. The related code is also available in the repository.
 
 ## Repo construction
 
